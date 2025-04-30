@@ -1,2 +1,2 @@
 # GitExercise
-SOCS answer for SE exercise
+Jawaban SOCS untuk exercise GitHub
